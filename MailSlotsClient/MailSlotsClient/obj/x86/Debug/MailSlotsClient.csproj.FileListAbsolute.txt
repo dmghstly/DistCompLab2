@@ -1,0 +1,25 @@
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlots.frmMain.resources
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\bin\Debug\MailSlotsClient.exe
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\bin\Debug\MailSlotsClient.pdb
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.exe
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.pdb
+C:\Users\Alexander\Desktop\12345\New\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.exe
+C:\Users\Alexander\Desktop\12345\New\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.pdb
+C:\Users\Alexander\Desktop\12345\New\MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.exe
+C:\Users\Alexander\Desktop\12345\New\MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.pdb
+C:\Users\Dmitriy Makarov\Desktop\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\MailSlotsClient.exe
+C:\Users\Dmitriy Makarov\Desktop\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\MailSlotsClient.pdb
+C:\Users\Dmitriy Makarov\Desktop\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.AssemblyReference.cache
+C:\Users\Dmitriy Makarov\Desktop\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlots.frmMain.resources
+C:\Users\Dmitriy Makarov\Desktop\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.Properties.Resources.resources
+C:\Users\Dmitriy Makarov\Desktop\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.GenerateResource.cache
+C:\Users\Dmitriy Makarov\Desktop\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy Makarov\Desktop\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.exe
+C:\Users\Dmitriy Makarov\Desktop\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.pdb
+C:\Users\Dmitriy Makarov\Desktop\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\MailSlotsClient.exe.config
+C:\Users\Dmitriy Makarov\Desktop\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dmitriy Makarov\Desktop\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dmitriy Makarov\Desktop\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dmitriy Makarov\Desktop\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.CopyComplete
